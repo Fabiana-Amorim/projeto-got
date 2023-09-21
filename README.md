@@ -27,16 +27,15 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Bootstrap
-- Vue.js
-- Ajax
+- Python para desenvolvimento
+- Visual Studio Code (VS Code) como IDE
+- Tkinter para interface do usuário
+- APIs de reconhecimento de fala para transcrição
 
 ## 💻 Projeto
-  Este projeto foi desenvolvido com base no curso  *__Web Moderno com JavaScript 2020__* da [Cod3r](https://www.cod3r.com.br). O backend e o frontend foram separados em pastas distintas e foram utilizados o PostgreSQL (banco relacional) e o MongoDB (não relacional) como banco de dados. 
-
-  Esta aplicação consiste em um site, que é acessado mediante cadastro, que contém artigos e publicações relacionados a programação. O usuário comum pode visualizar qualquer artigo do site, enquanto o administrado pode criar novos artigos através de um editor personalizado, criar novas categorias e sub-categorias, excluir conteúdo, criar/editar/excluir usuários do sistema e outros administradores, entre outras funções. O projeto segue em desenvolvimento, e em breve, serão implementados novas funcionalidades e melhorias.
-
-  Para a construção da aplicação, foram utilizadas Javascript, CSS, HTML, Vue, Ajax, Bootstrap, entre outros.
+  Este foi o projeto final desenvolvido com base no curso  *__NEXT - NOVA EXPERIÊNCIA DE TRABALHO__* da **Cesar School**, programa que nos habilitou a entender, adaptar e utilizar métodos e tecnologias dentro de processos ágeis de desenvolvimento de software. 
+  
+  A proposta é a plataforma "Speechy", uma solução online multifuncional, focada em atender às necessidades de comunicação global. Ela oferece transcrição de áudio para texto e tradução instantânea entre inglês e português, visando facilitar a comunicação eficaz em um mundo cada vez mais interconectado.
 
 ### Imagem da tela de login
 
@@ -51,3 +50,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ![admin](https://user-images.githubusercontent.com/54365007/79680026-75129c00-81e1-11ea-8afd-657b715f0db5.jpg)
 
 ## 📝 Funcionalidades
+
