@@ -20,7 +20,8 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-funcionalidades">Funcionalidades</a>
+  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-colaboradores">Colaboradores</a>
 </p>
 
 ## 🚀 Tecnologias
@@ -35,11 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
   Este foi o projeto final desenvolvido com base no curso  *__NEXT - NOVA EXPERIÊNCIA DE TRABALHO__* da **Cesar School**, programa que nos habilitou a entender, adaptar e utilizar métodos e tecnologias dentro de processos ágeis de desenvolvimento de software. 
   
-  A proposta é a plataforma "Speechy", uma solução online multifuncional, focada em atender às necessidades de comunicação global. Ela oferece transcrição de áudio para texto e tradução instantânea entre inglês e português, visando facilitar a comunicação eficaz em um mundo cada vez mais interconectado.
-
-### Imagem da tela de resposta
-
-![tela-inicial](https://user-images.githubusercontent.com/54365007/79679994-177e4f80-81e1-11ea-8cd0-323d2047dc99.jpg)
+  A proposta é a plataforma **__"Speechy"__**, uma solução online multifuncional, focada em atender às necessidades de comunicação global. Ela oferece transcrição de áudio para texto e tradução instantânea entre inglês e português, visando facilitar a comunicação eficaz em um mundo cada vez mais interconectado.
 
 ## 📝 Funcionalidades
 
@@ -47,3 +44,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Tradução instantânea entre inglês e português.
 - Interface intuitiva e de fácil uso.
 - Combinação de serviços de transcrição e tradução para otimizar eficiência.
+
+## 🎓 Colaboradores
+
+Fabiana Amorim Almeida
+Patrício Leal de Melo Neto
+Sabiniano Alves do Rego Maia Neto
+Thiago Arnaud  
+Yuri Gomes da Cunha
+
