@@ -37,17 +37,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   
   A proposta é a plataforma "Speechy", uma solução online multifuncional, focada em atender às necessidades de comunicação global. Ela oferece transcrição de áudio para texto e tradução instantânea entre inglês e português, visando facilitar a comunicação eficaz em um mundo cada vez mais interconectado.
 
-### Imagem da tela de login
+### Imagem da tela de resposta
 
 ![tela-inicial](https://user-images.githubusercontent.com/54365007/79679994-177e4f80-81e1-11ea-8cd0-323d2047dc99.jpg)
 
-### Tela Inicial
-
-![tela-inicial2](https://user-images.githubusercontent.com/54365007/79680015-4e546580-81e1-11ea-947a-74b18392f8ca.jpg)
-
-### Editor de artigos, acessado por um administrador
-
-![admin](https://user-images.githubusercontent.com/54365007/79680026-75129c00-81e1-11ea-8afd-657b715f0db5.jpg)
-
 ## 📝 Funcionalidades
 
+- Transcrição de áudio para texto.
+- Tradução instantânea entre inglês e português.
+- Interface intuitiva e de fácil uso.
+- Combinação de serviços de transcrição e tradução para otimizar eficiência.
